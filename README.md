@@ -1,8 +1,8 @@
 ![](https://img.shields.io/static/v1?label=category&message=template&color=red)
 
-# Github Template
+# MVConnect Color Snippets
 
-This template is used to create other GitHub repositories used by the college. Please ignore the remainder of this README.
+The semester color snippets used in the Script widget on the home page.
 
 [Documentation](doc/toc.md)
 
@@ -10,38 +10,24 @@ This template is used to create other GitHub repositories used by the college. P
 
 A basic understanding of the following skills are necessary to use this project.
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [OOCSS](https://www.keycdn.com/blog/oocss)
-* [BEM](https://en.bem.info/)
 
 ## Tool Dependencies
 
 Install the following tools to use this project in your local development environment.
 
-* [Node.js](https://nodejs.org/)
-* [Parcel](https://parceljs.org/)
-* [Git](https://git-scm.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 
 ## Installing
 
 Follow these steps to install this project.
 
-	git clone https://github.com/github-template/github-template.git
-	cd github-template
-	npm install
-	npm run watch
+	git clone https://github.com/mvcc-color-snippets/mvcc-color-snippets.git
+	cd mvcc-color-snippets
 
-## Building
+## Known Issues
 
-Use the following CL commands to test or compile this project:
-
-| Name          | Description                                          |
-| ------------- | ---------------------------------------------------- |
-| npm run watch | Test the project in a local development server       |
-| npm run build | Build the project                                    |
+The snippets are not scalable and written poorly due to the vendor's master page.
 
 ## Contributing
 
