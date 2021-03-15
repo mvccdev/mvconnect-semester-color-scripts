@@ -1,8 +1,8 @@
 ![](https://img.shields.io/static/v1?label=category&message=template&color=red)
 
-# MVConnect Color Snippets
+# MVConnect Seasonal Colors Scripts
 
-The semester color snippets used in the Script widget on the home page.
+The seasonal color scripts used in the Script widget on the home page.
 
 [Documentation](doc/toc.md)
 
@@ -22,7 +22,7 @@ Install the following tools to use this project in your local development enviro
 
 Follow these steps to install this project.
 
-	git clone https://github.com/mvcc-color-snippets/mvcc-color-snippets.git
+	git clone https://github.com/mvconnect-seasonal-colors-scripts/mvconnect-seasonal-colors-scripts.git
 	cd mvcc-color-snippets
 
 ## Known Issues

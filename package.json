@@ -1,7 +1,7 @@
 {
-	"name": "mvcc-color-snippets",
+	"name": "mvconnect-seasonal-colors-scripts",
 	"version": "1.0.0",
-	"description": "The semester color snippets used in the Script widget on the home page.",
+	"description": "The seasonal color scripts used in the Script widget on the home page.",
 	"author": "Moraine Valley Community College",
 	"license": "MIT",
 	"keywords": [
