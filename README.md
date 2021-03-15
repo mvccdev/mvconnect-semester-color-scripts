@@ -1,4 +1,4 @@
-![](https://img.shields.io/static/v1?label=category&message=template&color=red)
+![](https://img.shields.io/static/v1?label=category&message=scripts&color=red)
 
 # MVConnect Seasonal Colors Scripts
 
