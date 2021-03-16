@@ -1,8 +1,8 @@
 ![](https://img.shields.io/static/v1?label=category&message=scripts&color=red)
 
-# MVConnect Seasonal Colors Scripts
+# MVConnect Semester Color Scripts
 
-The seasonal color scripts used in the Script widget on the home page.
+The semester color scripts used in the Script widget on the home page. Summer and Spring semesters share the same files.
 
 [Documentation](doc/toc.md)
 
