@@ -22,8 +22,8 @@ Install the following tools to use this project in your local development enviro
 
 Follow these steps to install this project.
 
-	git clone https://github.com/mvconnect-seasonal-colors-scripts/mvconnect-seasonal-colors-scripts.git
-	cd mvcc-color-snippets
+	git clone https://github.com/mvconnect-semester-color-scripts/mvconnect-semester-color-scripts.git
+	cd mvcc-semester-color-scripts
 
 ## Known Issues
 
